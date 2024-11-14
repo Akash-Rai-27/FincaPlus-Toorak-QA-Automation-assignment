@@ -2,6 +2,14 @@
 #### Environment: https://www.saucedemo.com/
 #### Browser: Chromium, Firefox, WebKit  (Playwright) 
 
+# Final Report
+Final_Test_Report.xlsx - This file contains detail report on test cases
+
+saucedemo_test Reportbrief.pdf - This pdf contains brief and Proof of test cases
+
+Image - this folder contains Images of proof
+
+
 ---
 # Description
 - "pages" contains all the "PAGE OBJECT MODEL"
